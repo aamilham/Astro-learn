@@ -1,0 +1,100 @@
+
+.HomeHero {
+    position: absolute;
+    left: 0;
+    display: flex;
+    margin-bottom: 200px;
+}
+
+.HomeHero .HeroText {
+    margin-left: 45px;
+}
+
+.HomeHero .HeroText h2 {
+    margin-top: 89px;
+
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+font-weight: 600;
+font-size: 80px;
+line-height: 101px;
+
+
+color: #0F55A8;
+}
+
+.HomeHero .HeroText h3 {
+    margin-top: 65px;
+    width: 650px;
+
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+font-weight: 600;
+font-size: 54px;
+line-height: 68px;
+
+color: #000000;
+}
+
+.HomeHero .HeroText h3 .highlight {
+    color: #0F55A8;
+}
+
+.HomeHero .HeroText p {
+    margin-top: 41px;
+    margin-bottom: 135px;
+
+    width: 500px;
+
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+
+color: #000000;
+}
+
+.HomeHero .HeroText .Buttonleft {
+    justify-content: center;
+    align-items: center;
+    
+    width: 180px;
+    height: 46px;
+
+    background: #076ADF;
+    border: none;
+    border-radius: 5px;
+
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 30px;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+
+.HomeHero .HeroText .Buttonright {
+    align-items: center;
+    padding: 8px;
+    gap: 8px;
+
+    width: 180px;
+    height: 46px;
+
+    background: #FFFFFF;
+    border: 1px solid #076ADF;
+    border-radius: 5px;
+
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 30px;
+text-align: center;
+
+color: #076ADF;
+}
